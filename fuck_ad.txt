@@ -1,4 +1,11 @@
-! rules for vps.today 07.09.24
+! Title: FUCK AD
+! Description: FUCK AD FUCK AD FUCK AD FUCK AD FUCK AD
+! Version: 0.0.1-alfa
+! Last modified: 2024-09-07
+! Expires: none
+! Homepage: https://github.com/rekayno/fuck_ad
+! License: https://github.com/rekayno/fuck_ad/blob/main/LICENSE
+
 ! promo hosters
 vps.today##div.margin-bottom.card-bordered.card:nth-of-type(6)
 vps.today##body > div.container:nth-of-type(1)
@@ -9,3 +16,13 @@ vps.today##li.list-group-item
 ! navbar aeza and promocodes
 vps.today##li.navbar-nav-item:nth-of-type(7)
 vps.today##.active.navbar-nav-item
+
+dark.shopping##.features-block
+dark.shopping##.ta-links-wrapper.wrapper
+dark.shopping##.footer-legal-notice
+dark.shopping##.d-desktop.filter__bottom-desk > .w-100.btn-icon.btn-gray.btn.filter__button-allshow > .thick-double-border.btn--new-filter-update
+dark.shopping##div.main__banka:nth-of-type(2)
+dark.shopping##.matomba_consultant_left
+dark.shopping##.gap-16.d-grid
+dark.shopping##.p-receipt__discount-items
+dark.shopping##div.main__banka
