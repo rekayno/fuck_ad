@@ -1,35 +1,35 @@
-dzen.ru
-ya.ru
-yandex.aero
-yandex.az
-yandex.by
-yandex.co.il
-yandex.com
-yandex.com.am
-yandex.com.ge
-yandex.com.ru
-yandex.com.tr
-yandex.com.ua
-yandex.de
-yandex.ee
-yandex.eu
-yandex.fi
-yandex.fr
-yandex.jobs
-yandex.kg
-yandex.kz
-yandex.lt
-yandex.lv
-yandex.md
-yandex.net
-yandex.org
-yandex.pl
-yandex.ru
-yandex.st
-yandex.sx
-yandex.tj
-yandex.tm
-yandex.ua
-yandex.uz
-yandexcloud.net
-yastatic.net
+127.0.0.1 dzen.ru
+127.0.0.1 ya.ru
+127.0.0.1 yandex.aero
+127.0.0.1 yandex.az
+127.0.0.1 yandex.by
+127.0.0.1 yandex.co.il
+127.0.0.1 yandex.com
+127.0.0.1 yandex.com.am
+127.0.0.1 yandex.com.ge
+127.0.0.1 yandex.com.ru
+127.0.0.1 yandex.com.tr
+127.0.0.1 yandex.com.ua
+127.0.0.1 yandex.de
+127.0.0.1 yandex.ee
+127.0.0.1 yandex.eu
+127.0.0.1 yandex.fi
+127.0.0.1 yandex.fr
+127.0.0.1 yandex.jobs
+127.0.0.1 yandex.kg
+127.0.0.1 yandex.kz
+127.0.0.1 yandex.lt
+127.0.0.1 yandex.lv
+127.0.0.1 yandex.md
+127.0.0.1 yandex.net
+127.0.0.1 yandex.org
+127.0.0.1 yandex.pl
+127.0.0.1 yandex.ru
+127.0.0.1 yandex.st
+127.0.0.1 yandex.sx
+127.0.0.1 yandex.tj
+127.0.0.1 yandex.tm
+127.0.0.1 yandex.ua
+127.0.0.1 yandex.uz
+127.0.0.1 yandexcloud.net
+127.0.0.1 yastatic.net
